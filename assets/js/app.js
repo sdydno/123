@@ -98,7 +98,7 @@ $(function() {
         let modalId = $this.data('modal');
 
         $(modalId).addClass('show');
-        $("body").addClass('no-scroll');
+        
 
         setTimeout(function() {
             $(modalId).find(".modal__dialog").css({
@@ -120,7 +120,7 @@ $(function() {
 
         setTimeout(function() {
             modalParent.removeClass('show');
-            $("body").removeClass('no-scroll');
+            
         }, 200);
     });
 
