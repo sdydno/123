@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff; }
 
 .intro-2 {
-  background: url("assets/images/covid19.jpg") center no-repeat;
+  background: url("../images/covid19.jpg") center no-repeat;
   background-size: cover;
   height: 670px;
   width: 100%; }
