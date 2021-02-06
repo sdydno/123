@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 25px; }
 
 .intro-1 {
-  background: url("/assets/images/intro-bg.jpg") center no-repeat;
+  background: url("../images/intro-bg.jpg") center no-repeat;
   background-size: cover;
   height: 670px;
   width: 100%; }
